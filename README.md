@@ -1,6 +1,6 @@
 # CopyRenameBatch
 
-*Copying files from one folder to another and renaming them at the same time
+*Copying files from one folder to another and renaming them at the same time*
 
 
 Using **Notepad** you can move files from one folder to another and rename them all in one step.  
@@ -10,8 +10,9 @@ Using **Notepad** you can move files from one folder to another and rename them 
 2) locate the file path of where you want those files placed
 
 3) Using the copy command set them up as 
-     
-     **copy "Y:\FolderA" "C:\FolderB"**
+
+          **copy "Y:\FolderA" "C:\FolderB"**
+ 
  Or 
  
  If you just want to copy a specific file specify the name and the type of file
