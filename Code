@@ -1,0 +1,10 @@
+@echo off
+title Copy and Rename
+echo Fast and Easy batch file
+
+COPY "C:\Users\name\Documents\Test1" "C:\Users\name\Documents\Test2"
+
+RENAME "C:\Users\name\Documents\Test2\215.xlsx" 217.xlsx
+
+
+pause
