@@ -5,9 +5,9 @@
 
 Using **Notepad** you can move files from one folder to another and rename them all in one step.  
 
-1) locate the file path of where the files are located that you want to copy
+1) Locate the file path location of the file(s) that you want to copy
 
-2) locate the file path of where you want those files placed
+2) Locate the file path location of where you want to place those file(s)
 
 3) Using the copy command set them up as 
 
@@ -17,9 +17,10 @@ Using **Notepad** you can move files from one folder to another and rename them 
  
  If you just want to copy a specific file specify the name and the type of file
  
-    **copy "Y:\FolderA\file.pdf" "C:\FolderB"**
+         **copy "Y:\FolderA\file.pdf" "C:\FolderB"**
   
   4) To rename use the new file location and specify the file and the new name next to it
   
-    **rename "C:\FolderB\file.pdf" fileA.pdf**
+          **rename "C:\FolderB\file.pdf" fileA.pdf**
  
+***Done!***
